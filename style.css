@@ -207,7 +207,7 @@ section .title::after {
 }
 
 .about {
-    background-color: gray;
+    background-color: whitesmoke;
 }
 .about .about-content .left img {
     height: 400px;
